@@ -1,12 +1,12 @@
 ---
-title: Charlize Babatunde
+title: Robert Iacobelli
 date: 2017-11-14 10:54:31 +0000
 role:
 - staff
 thumbnail: "/uploads/2019/04/26/A3CF0340-DD57-4740-A462-7C00EB73327E.jpeg"
-sub_heading: Administration
-email: ''
-linkedin: ''
+sub_heading: 'Developent '
+email: rsiacobelli@gmail.com
+linkedin: Hsjdjd
 layout: person
 
 ---
