@@ -3,7 +3,7 @@ label: project
 hide_body: false
 fields:
 - type: text
-  name: title
+  name: glitchtank
   label: Title
 - name: sub_heading
   label: Sub Heading
